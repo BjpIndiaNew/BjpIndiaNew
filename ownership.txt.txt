@@ -1,0 +1,4 @@
+OWNER: [Your Full Name]
+CREATED: [Today's Date]
+CONTACT: [your@email.com]
+NOTE: This file proves my ownership of this website.
